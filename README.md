@@ -88,6 +88,6 @@ Ushbu loyiha shunchaki o‘rganish maqsadida yaratilgan. Istalgancha o‘zgartir
 
 ## 👤 Muallif
 
-- Ism: **Ozod aka**
+- Ism: **Ozodjon Xasanov**
 - Til: Python
 - Maqsad: Terminalda soddalashtirilgan bank ilovasi yasash orqali dasturlashni mustahkamlash
